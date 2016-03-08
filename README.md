@@ -1,1 +1,1 @@
-# InitTest
+Just test, nothing more yet.
